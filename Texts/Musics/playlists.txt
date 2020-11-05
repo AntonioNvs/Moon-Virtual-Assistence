@@ -1,0 +1,3 @@
+eletronica;9;https://www.youtube.com/watch?v=MTbX4KC0AaU
+sertanejo;1;https://www.youtube.com/watch?v=FRWgGvmUDkE
+internacional;7;https://www.youtube.com/watch?v=XjTSfOuUcGY
